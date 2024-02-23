@@ -25,8 +25,12 @@
   - [Basketball Visualizations](https://github.com/jriordan55/basketball_visualizations)
   - [Baseball Visualizations](https://github.com/jriordan55/baseball_visualizations)
 
+### My Favorite Language
 
-### Connect with me:
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+
+
+### Connect with me
 
 [<img align="left" alt="jriordan55 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jriordan55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,7 +38,7 @@
 
  <br />
 
-### My Favorite Language:
+### My Favorite Language
 
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
