@@ -37,6 +37,7 @@
 [<img align="left" alt="jriordan55 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
  <br />
+<br />
 
 ### My Favorite Language
 
