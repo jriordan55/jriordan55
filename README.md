@@ -40,8 +40,7 @@
 [<img align="left" alt="jriordan55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jriordan55 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
- <br />
-<br />
+
 
 [twitter]: https://twitter.com/riordan5j
 [linkedin]: https://www.linkedin.com/in/jonathan-riordan-14a49a198/ 
