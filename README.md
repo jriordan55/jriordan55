@@ -1,18 +1,21 @@
 ### Jonathan Riordan
 
   - I graduated from Bryant University in 2023 with my Bachelor of Science in Data Science
-  - I was involved with the Sports Analytics club assisting the Bryant Men's Baseball and Basketball Teams
+  - I was involved with the Sports Analytics club focusing on baseball and basketball
   - I was featured by the University for my work in basketball analytics [Data science student turns great plays into great insights](https://news.bryant.edu/data-science-student-turns-great-plays-great-insights)
 
 ### Experience
 
   - Currently, I am a Senior Assoiate at State Street working for the Financial Reporting Team
+  - I am a [Sports Betting Contributor for Heavy Sports](https://heavy.com/author/jriordan5/)
   - My last internship was an Analytics Engineer for Splash Sports
   - I have been creating Sports Analytics content on various platforms since 2021
 
 ### My Projects
 
   - [Predicting MLB Salaries](https://medium.com/@jriordan1/predicting-mlb-contracts-e2d1e54e86c9)
+  - [Factor Analysis Model for MLB and Minor League Hitter Similarities](https://medium.com/@jriordan1/factor-analysis-model-for-mlb-and-minor-league-hitter-similarities-df81a8fb10a8)
+  - [Creating a College Basketball Metric to Predict Point Spreads for March Madness](https://medium.com/@jriordan1/creating-a-college-basketball-metric-to-predict-point-spreads-for-march-madness-02bbdf048e99)
   - [Analyzing NBA Draft Picks](https://medium.com/@jriordan1/analyzing-nba-draft-picks-1581b2b0e9c7)
   - [MLB Post Season Shiny App Code](https://github.com/jriordan55/mlb_postseason_shiny/blob/main/app.R)
   - [Bootstrapping in Python to Predict Super Bowl LVII Player Prop Bets](https://medium.com/@jriordan1/bootstrapping-in-python-to-predict-super-bowl-lvii-player-prop-bets-169e92bbfa50)
