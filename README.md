@@ -21,7 +21,7 @@
   - [Modeling NFL Props: Finding Inefficient Markets for Tail-End Outcomes](https://medium.com/@jriordan1/modeling-nfl-props-finding-inefficient-markets-for-tail-end-outcomes-6a706b81a388)
   - [Using Implied Volatility for Modeling NFL Games](https://medium.com/@jriordan1/using-implied-volatility-for-modeling-nfl-games-3161d7d3fe3c)
   - [AL East Monte Carlo Simulation](https://medium.com/@jriordan1/al-east-monte-carlo-simulation-332cb06af290)
-  - [Predicting NBA Win Totals and Point Spreads](https://medium.com/@jriordan1/predicting-2023-24-nba-win-totals-a515b6f845ccx)
+  - [Predicting NBA Win Totals and Point Spreads](https://medium.com/@jriordan1/predicting-2023-24-nba-win-totals-a515b6f845cc)
   - [Predicting 2024 MLB Home Run Totals](https://medium.com/@jriordan1/predicting-2024-mlb-home-run-totals-89c8f95cad76)
   - [Predicting MLB Salaries](https://medium.com/@jriordan1/predicting-mlb-contracts-e2d1e54e86c9)
   - [Factor Analysis Model for MLB and Minor League Hitter Similarities](https://medium.com/@jriordan1/factor-analysis-model-for-mlb-and-minor-league-hitter-similarities-df81a8fb10a8)
